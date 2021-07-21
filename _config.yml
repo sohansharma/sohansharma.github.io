@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Sohan Lal"
-  avatar           : "profile.png"
+  avatar           : "sohan.jpg"
   bio              : " Postdoctoral Researcher, Computer Architecture, GPU Architecture, Parallel Systems, Deep Learning"
   location         : #"Berlin"
   employer         : "<a href=https://www.tu.berlin/>TU Berlin</a>"
