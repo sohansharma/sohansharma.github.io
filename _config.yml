@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Sohan Lal"
-  avatar           : "sohan.png"
+  avatar           : "profile.png"
   bio              : " Postdoctoral Researcher, Computer Architecture, GPU Architecture, Parallel Systems, Deep Learning"
-  location         : <a href=https://www.tu.berlin/>TU Berlin</a>
+  location         : \noindent <a href=https://www.tu.berlin/>TU Berlin</a>
   employer         : "<a href=https://www.tu.berlin/>TU Berlin</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=0C7ensoAAAAJ&hl=en"
