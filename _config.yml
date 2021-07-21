@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Sohan Lal"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher *Computer Architecture *GPU Architecture * Parallel Systems *Deep Learning "
+  bio              : Postdoctoral Researcher * Computer Architecture * GPU Architecture * Parallel Systems * Deep Learning 
   location         : #"Berlin"
   employer         : "Technical University of Berlin"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
