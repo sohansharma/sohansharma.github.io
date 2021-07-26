@@ -13,7 +13,11 @@ Dr. Sohan Lal is a postdoctoral researcher at the <a href=https://www.tu.berlin/
 
 <p align="justify">
 Before Ph.D., he received his masters from the <a href=https://home.iitd.ac.in/>Indian Institute of Technology Delhi</a> (IITD) in 2011. Before that, he worked as a Lecturer at <a href=https://www.smvdu.ac.in/>Shri Mata Vaishno Devi University</a> (SMVDU), which was the first teaching stint that made him deeply passionate and excited about teaching and mentorship. He also worked as an IT specialist in the Government of India. He received his bachelor in Computer Science and Engineering from <a href=http://gcetjammu.org.in/>Government College of Engineering and Technology</a> (GCET), Jammu, India in 2003.
+<p><a href="https://www.google.com/">Google</a></p>
+
 </p>
+
+<p><a href="https://www.google.com/">Google</a></p>
 
 Education
 ========
