@@ -20,6 +20,6 @@ Education
 * &#127891; Ph.D. (Dr.-Ing.) in Computer Engineering, 2019, Technical University of Berlin
 * &#127891; M.S (Research) in Information Technology, 2011, Indian Institute of Technology Delhi
 * &#127891; B.Tech in Computer Science & Engineering, 2003, <span style="color:grey">Govt. College of Engineering & Technology Jammu</span>
-* <span style="color:red;font-size:10">This is Red</span>
-* <span style="color:red;font-size:6">This is Red</span>
+* <span style="color:red;font-size:10px;">This is Red</span>
+* <span style="color:red;font-size:6px;">This is Red</span>
 
