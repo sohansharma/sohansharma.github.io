@@ -17,6 +17,6 @@ Before Ph.D., he received his masters from the <a href=https://home.iitd.ac.in/>
 
 Education
 ========
-* Ph.D. (Dr.Ing.) in Computer Engineering, 2019, Technical University of Berlin
+* author:googlescholar: Ph.D. (Dr.Ing.) in Computer Engineering, 2019, Technical University of Berlin
 * M.S (Research) in Information Technology, 2011, Indian Institute of Technology Delhi
 
