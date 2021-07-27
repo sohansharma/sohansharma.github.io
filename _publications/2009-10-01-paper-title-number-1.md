@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "2021"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'DATE 2021'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: '2021'
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
-[QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Sohan Lal, Ben Juurlink [QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124)
+<i>Journal 1</i>. 1(1).
