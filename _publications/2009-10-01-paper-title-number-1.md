@@ -8,5 +8,8 @@ redirect_from:
   - /publications.html
 ---
 
-Sohan Lal, Ben Juurlink [QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124)
-<i>Journal 1</i>. 1(1).
+Sohan Lal, Jan Lucas, Ben Juurlink [QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124)
+In the Proceedings of Design, Automation & Test in Europe Conference & Exhibition (DATE 2021), Virtual Event
+ 
+Sohan Lal, Jan Lucas, Ben Juurlink [QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124)
+In the Proceedings of Design, Automation & Test in Europe Conference & Exhibition (DATE 2021), Virtual Event
