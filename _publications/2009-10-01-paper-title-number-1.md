@@ -3,6 +3,9 @@ title: "2021"
 collection: publications
 excerpt: '2021'
 author_profile: true
+font-family: “Helvetica”, Sans-serif
+font-size: 4px
+font-weight: 400
 redirect_from: 
   - /publications/
   - /publications.html
