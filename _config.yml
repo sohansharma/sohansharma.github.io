@@ -227,7 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      font-size: 4pt
   # _portfolio
   - scope:
       path: ""
