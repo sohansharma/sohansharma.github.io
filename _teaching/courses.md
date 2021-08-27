@@ -6,7 +6,7 @@ venue: "University 1, Department"
 date: 2021-10-01
 permalink: /teaching/courses
 redirect_from: 
-  - /teaching/
+  - /courses/
   - /courses.html
 ---
 
