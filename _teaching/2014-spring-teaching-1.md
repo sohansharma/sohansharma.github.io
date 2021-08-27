@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 collection: teaching
-venue: ","
+venue: "University 1, Department"
 permalink: /teaching/2014-spring-teaching-1
 redirect_from: 
   - /teaching/
