@@ -10,7 +10,6 @@ redirect_from:
 
 Teaching@TUHH
 ===
-I will be teaching the followig courses in the coming semesters:
 
 * Winter 2021-2022: Advanced Computer Architecture (BS/MS)
 * Summer 2022: Massively Parallel Systems: Architecture and Programming (MS)
