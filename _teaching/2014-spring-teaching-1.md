@@ -1,13 +1,14 @@
 ---
 title: "Teaching"
 collection: teaching
+venue: "","",""
 permalink: /teaching/2014-spring-teaching-1
 redirect_from: 
   - /teaching/
   - /teaching.html
 ---
 
-Teaching at Technische Universität Hamburg
+Teaching@TUHH
 ===
 I will be teaching the followig courses in the coming semesters:
 
