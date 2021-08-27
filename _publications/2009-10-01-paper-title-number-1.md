@@ -1,5 +1,5 @@
 ---
-title: "2021"
+title: "Publications"
 collection: publications
 excerpt: '2021'
 author_profile: true
@@ -10,7 +10,6 @@ redirect_from:
 
 2021
 ===
-
 
 **Sohan Lal**, Jan Lucas, Ben Juurlink <br> 
 [QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs](https://ieeexplore.ieee.org/abstract/document/9474124) <br> 
