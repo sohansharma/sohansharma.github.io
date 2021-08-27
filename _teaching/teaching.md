@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 venue: "University 1, Department"
 date: 2021-10-01
-permalink: /teaching/courses
+permalink: /teaching/teaching
 redirect_from: 
   - /teaching/
   - /teaching.html
