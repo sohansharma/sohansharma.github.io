@@ -1,8 +1,8 @@
 ---
-title: "Teaching@TUHH"
+title: "Teaching"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-venue: "Technische Universität Hamburg"
+venue: "Teaching at Technische Universität Hamburg"
 redirect_from: 
   - /teaching/
   - /teaching.html
