@@ -1,8 +1,9 @@
 ---
 title: "Teaching"
 collection: teaching
+type: "Undergraduate course"
 venue: "University 1, Department"
-date: 2014-01-01
+date: none
 permalink: /teaching/2014-spring-teaching-1
 redirect_from: 
   - /teaching/
