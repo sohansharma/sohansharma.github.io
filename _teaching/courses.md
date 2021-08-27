@@ -7,7 +7,7 @@ date: 2021-10-01
 permalink: /teaching/courses
 redirect_from: 
   - /teaching/
-  - /teaching.html
+  - /courses.html
 ---
 
 Teaching@TUHH
