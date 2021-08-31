@@ -17,4 +17,7 @@ redirect_from:
   * Indian Institute of Technology Ropar (IIT Jammu)
 * Memory Access Granularity Aware Selective Lossy Compression for GPUs (DATE'19)
 * A Case for Memory Access Granularity Aware Selective Lossy Compression for GPUs (MICRO'18)
+* E2MC: Entropy Encoding Based Memory Compression for GPUs (IPDPS'17)
+* GPGPU Workload Characteristics and Performance Analysis (SAMOS'14)
+* Exploring GPGPU Workload Characteristics and Power Consumption (ACACES'13)
 * A Framework for Modeling GPU Power Consumption (HiPEAC'13)
