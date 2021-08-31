@@ -66,8 +66,10 @@ loc_dict = {}
 
 for row, item in talks.iterrows():
     
-    md_filename = str(item.date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.date) + "-" + item.url_slug 
+    #md_filename = str(item.date) + "-" + item.url_slug + ".md"
+    #html_filename = str(item.date) + "-" + item.url_slug 
+    md_filename = str(talks) + "-" + ".md"
+    html_filename = str(talks)
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
