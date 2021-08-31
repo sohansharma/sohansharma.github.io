@@ -2,8 +2,6 @@
 
 ---
 
-Invited Talks, Webinars
-===
 * A Perspective on Performance, Power, and Energy Efficiency of GPUs (Webinar SGSITS, India)
 * Architectural Techniques for Energy-Efficient GPUs (TU Dresden, RWTH Aachen, IITR'19)
 * Memory Access Granularity Aware Selective Lossy Compression for GPUs (DATE'19)
