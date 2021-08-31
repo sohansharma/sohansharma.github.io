@@ -13,8 +13,11 @@ redirect_from:
 Teaching@TUHH
 ===
 
-* Winter 2021-2022: Advanced Computer Architecture (BS/MS)
-* Summer 2022: Massively Parallel Systems: Architecture and Programming (MS)
+* Winter 202?: Advanced Computer Architecture (BS/MS)
+* Summer 202?: Massively Parallel Systems: Architecture and Programming (MS)
 
 Teaching@TUB 
 ===
+* Advanced Computer Architecture
+* Multicore Systems
+* Recent Advances in Computer Architecture
