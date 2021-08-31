@@ -1,5 +1,11 @@
 ---
-
+title: Talks
+collection: talks
+excerpt: '2021'
+author_profile: true
+redirect_from: 
+  - /talks/
+  - /taks.html
 ---
 
 * A Perspective on Performance, Power, and Energy Efficiency of GPUs (Webinar SGSITS, India)
