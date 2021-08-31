@@ -9,7 +9,6 @@ redirect_from:
   - /teaching/
   - /teaching.html
 ---
-
 * Winter 202?: Advanced Computer Architecture (BS/MS)
 * Summer 202?: Massively Parallel Systems: Architecture and Programming (MS)
 
