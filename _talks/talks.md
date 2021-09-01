@@ -10,14 +10,14 @@ redirect_from:
 
 A Perspective on Performance, Power, and Energy Efficiency of GPUs
 ---
-  * Shri Govindram Seksaria Institute of Technology and Science, SGSITS, Indore, India
+  * Shri Govindram Seksaria Institute of Technology and Science, SGSITS, Indore, June 2020
 
 Architectural Techniques for Energy-Efficient GPUs
 ---
-  * Technical University of Dresden, Germany 
-  * RWTH Aachen, Germany
-  * Indian Institute of Technology Ropar (IIT Ropar)
-  * Indian Institute of Technology Ropar (IIT Jammu)
+  * Technical University of Dresden, Germany, Feburary 2019
+  * RWTH Aachen, Germany, April 2019
+  * Indian Institute of Technology Ropar (IIT Ropar), March 2019
+  * Indian Institute of Technology Ropar (IIT Jammu), March 2019
 
 * Memory Access Granularity Aware Selective Lossy Compression for GPUs (DATE'19)
 * A Case for Memory Access Granularity Aware Selective Lossy Compression for GPUs (MICRO'18)
