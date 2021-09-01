@@ -1,6 +1,6 @@
 ---
 title: Blogs
-collection: blogs
+collection: posts
 excerpt: '2021'
 author_profile: true
 redirect_from: 
