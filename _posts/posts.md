@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Blog Posts
 collection: posts
 excerpt: '2021'
 author_profile: true
