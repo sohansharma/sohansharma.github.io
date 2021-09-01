@@ -8,7 +8,8 @@ redirect_from:
   - /taks.html
 ---
 
-* A Perspective on Performance, Power, and Energy Efficiency of GPUs
+A Perspective on Performance, Power, and Energy Efficiency of GPUs
+---
   * Shri Govindram Seksaria Institute of Technology and Science, SGSITS, Indore, India
 * Architectural Techniques for Energy-Efficient GPUs
   * Technical University of Dresden, Germany 
