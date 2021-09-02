@@ -7,7 +7,7 @@ redirect_from:
   - /talks/
   - /taks.html
 ---
-On Performance and Energy Efficiency of GPUs: An Indispensable Part of Massively Parallel Systems
+On Performance and Energy Efficiency of GPUs
 ---
   * Technical University of Hamburg, November 2020
  
