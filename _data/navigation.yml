@@ -18,5 +18,5 @@ main:
   - title: "Group@TUHH"
     url: /group/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
