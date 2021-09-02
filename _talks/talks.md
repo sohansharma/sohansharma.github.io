@@ -7,7 +7,10 @@ redirect_from:
   - /talks/
   - /taks.html
 ---
-
+On Performance and Energy Efficiency of GPUs: An Indispensable Part of Massively Parallel Systems
+---
+  * Technical University of Hamburg, November 2020
+ 
 A Perspective on Performance, Power, and Energy Efficiency of GPUs
 ---
   * Shri Govindram Seksaria Institute of Technology and Science, SGSITS, Indore, June 2020
