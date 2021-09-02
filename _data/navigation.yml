@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /posts/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Group@TUHH"
+    url: /group/
     
   - title: "Guide"
     url: /markdown/
