@@ -18,7 +18,7 @@ A Perspective on Performance, Power, and Energy Efficiency of GPUs
 Architectural Techniques for Energy-Efficient GPUs
 ---
   * RWTH Aachen, April 2019
-  * Indian Institute of Technology Ropar, March 2019
+  * Indian Institute of Technology Jammu, March 2019
   * Indian Institute of Technology Ropar, March 2019
   * Technical University of Dresden, February 2019
 
