@@ -10,6 +10,7 @@ redirect_from:
 On Performance and Energy Efficiency of GPUs
 ---
   * Technical University of Hamburg, November 2020
+  * Queens University of Belfast, January 2020
  
 A Perspective on Performance, Power, and Energy Efficiency of GPUs
 ---
