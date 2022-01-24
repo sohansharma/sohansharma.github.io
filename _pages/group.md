@@ -12,3 +12,6 @@ redirect_from:
 Updating soon ...
 ---
 
+<p align="center">
+  <img src="../images/Sohan_Lal_TUHH.jpg" width="300" title="Prof. Dr.-Ing. Sohan Lal">
+</p>
