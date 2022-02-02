@@ -256,7 +256,7 @@ defaults:
       type: group
     values:
       layout: group
-      author_profile: false
+      author_profile: true
       share: true      
 
 # Sass/SCSS
