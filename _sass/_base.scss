@@ -179,13 +179,12 @@ li ol {
 /* Figures and images */
 
 figure {
-  display: -webkit-box;
-  display: flex;
+  display: inline-block;
   text-align: center;
   -webkit-box-pack: justify;
-          justify-content: space-between;
+  justify-content: space-between;
   -webkit-box-align: start;
-          align-items: flex-start;
+  align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
 
