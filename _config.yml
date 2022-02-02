@@ -255,7 +255,7 @@ defaults:
       path: ""
       type: group
     values:
-      layout: group
+      layout: single
       author_profile: true
       share: true      
 
