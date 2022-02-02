@@ -1,9 +1,8 @@
 ---
 title: "Group@TUHH"
 collection: group
-permalink: /group.html
+permalink: /group/
 author_profile: true
-
 ---
 
 <figure>
