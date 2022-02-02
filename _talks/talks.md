@@ -5,7 +5,7 @@ excerpt: '2021'
 author_profile: true
 redirect_from: 
   - /talks/
-  - /taks.html
+  - /talks.html
 ---
 On Performance and Energy Efficiency of GPUs
 ---
