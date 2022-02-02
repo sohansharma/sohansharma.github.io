@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<p align="left">
+<figure>
   <img src="../images/Sohan_Lal_TUHH.jpg" width="300" title="Prof. Dr.-Ing. Sohan Lal">
-  <figcaption> <a href="https://www.tu.berlin/en/" style="text-decoration:none">Prof. Dr.-Ing. Sohan Lal</a></figcaption>
-</p>
+  <figcaption> <a href="https://www.tuhh.de/tuhh/en/" style="text-decoration:none text-align:center">Prof. Dr.-Ing. Sohan Lal</a></figcaption>
+</figure>
+
