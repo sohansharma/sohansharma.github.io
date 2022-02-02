@@ -4,11 +4,9 @@ collection: group
 permalink: /group/
 author_profile: true
 redirect_from:
-  - /group
+  - /group/
   - /group.html
 ---
-
-{% include base_path %}
 
 <figure>
   <img src="../images/Sohan_Lal_TUHH.jpg" width="160" title="Prof. Dr.-Ing. Sohan Lal" />
