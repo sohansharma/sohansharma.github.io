@@ -240,6 +240,7 @@ figcaption {
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
   font-size: $type-size-6;
+  text-align:center;
 
   a {
     color: inherit;
