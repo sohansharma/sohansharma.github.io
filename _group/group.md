@@ -1,11 +1,9 @@
 ---
 title: "Group@TUHH"
 collection: group
-permalink: /group/
+permalink: /group.html
 author_profile: true
-redirect_from:
-  - /group/
-  - /group.html
+
 ---
 
 <figure>
