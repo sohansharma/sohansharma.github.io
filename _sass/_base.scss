@@ -184,7 +184,7 @@ figure {
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: start;
-  align-items: flex-start;
+  align-items: center;
   flex-wrap: wrap;
   margin: 2em 0;
 
@@ -199,11 +199,11 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    vertical-align: top;
   }
 
   > a {
     display: block;
-    text-align: center;
   }
 
   &.half {
