@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Group@TUHH"
+    url: /group/
+
   - title: "Publications"
     url: /publications/
 
@@ -14,9 +17,6 @@ main:
         
   - title: "Blog Posts"
     url: /posts/
-    
-  - title: "Group@TUHH"
-    url: /group/
     
   #- title: "Guide"
   #  url: /markdown/
