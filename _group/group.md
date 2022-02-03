@@ -2,7 +2,6 @@
 title: "Group@TUHH"
 collection: group
 permalink: /group/
-author_profile: true
 ---
 
 <figure>
