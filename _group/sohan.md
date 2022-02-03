@@ -2,7 +2,6 @@
 title: "About Me"
 excerpt: "About me"
 permalink: /group/sohan/
-collection: group
 author_profile: true
 ---
 <p align="justify">
