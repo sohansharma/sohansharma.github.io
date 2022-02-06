@@ -18,7 +18,6 @@ These days massively parallel systems are present everywhere – in our smartpho
 News
 ---
 
---
 21-09-01: Sohan Lal joins TUHH
 --
 <p align="justify">
