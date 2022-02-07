@@ -193,6 +193,9 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -257,7 +260,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false      
+      share: false
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: false
+      share: false       
 
 # Sass/SCSS
 sass:
