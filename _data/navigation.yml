@@ -14,9 +14,12 @@ main:
     
   - title: "Theses"
     url: /theses/
-        
-  - title: "Blog Posts"
-    url: /posts/
+   
+  - title: "Contact"
+    url: /contact/
+    
+ # - title: "Blog Posts"
+ #   url: /posts/
     
   #- title: "Guide"
   #  url: /markdown/
