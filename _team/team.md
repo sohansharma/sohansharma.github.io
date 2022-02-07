@@ -1,7 +1,7 @@
 ---
-title: "Group@TUHH"
-collection: group
-permalink: /group/
+title: "Team"
+collection: team
+permalink: /team/
 author_profile: false
 ---
 
