@@ -13,10 +13,44 @@ Before Ph.D., he received his masters from the <a href="https://home.iitd.ac.in/
 
 
 Education
-========
+----
 * &#127891; Ph.D. (Dr.-Ing.) in Computer Science, 2019, <span style="color:grey">Technical University of Berlin</span>
 * &#127891; M.S (Research) in Information Technology, 2011, <span style="color:grey">Indian Institute of Technology Delhi</span>
 * &#127891; B.Tech in Computer Science & Engineering, 2003, <span style="color:grey">Govt. College of Engineering & Technology Jammu</span>
+
+Talks
+----
+
+On Performance and Energy Efficiency of GPUs
+---
+  * Technical University of Hamburg, November 2020
+  * Queens University of Belfast, January 2020
+ 
+A Perspective on Performance, Power, and Energy Efficiency of GPUs
+---
+  * Shri Govindram Seksaria Institute of Technology and Science, SGSITS, Indore, June 2020
+
+Architectural Techniques for Energy-Efficient GPUs
+---
+  * RWTH Aachen, April 2019
+  * Indian Institute of Technology Jammu, March 2019
+  * Indian Institute of Technology Ropar, March 2019
+  * Technical University of Dresden, February 2019
+
+Conference Talks
+---
+* QSLC: Quantization-Based, Low-Error Selective Approximation for GPUs (DATE'21)
+* SYCL-Bench: A Versatile Cross-Platform Benchmark Suite for Heterogeneous Computing (Euro-Par'20)
+* A Quantitative Study of Locality in GPU Caches (SAMOS'20)
+* Memory Access Granularity Aware Selective Lossy Compression for GPUs (DATE'19)
+* A Case for Memory Access Granularity Aware Selective Lossy Compression for GPUs (MICRO'18)
+* E2MC: Entropy Encoding Based Memory Compression for GPUs (IPDPS'17)
+* GPGPU Workload Characteristics and Performance Analysis (SAMOS'14)
+* Exploring GPGPU Workload Characteristics and Power Consumption (ACACES'13)
+* A Framework for Modeling GPU Power Consumption (HiPEAC'13)
+
+
+
 
 <!---<span style="color:red;font-size:10px;">This is Red</span>
  <span style="color:red;font-size:6px;">This is Red</span>
