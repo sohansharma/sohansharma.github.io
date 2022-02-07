@@ -2,7 +2,7 @@
 title: "Theses"
 collection: theses
 redirect_from: 
-  - /research/
+  - /theses/
 ---
 
 Open Theses
