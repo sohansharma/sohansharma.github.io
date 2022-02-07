@@ -2,18 +2,18 @@
 main:
   - title: "Group@TUHH"
     url: /group/
+    
+  - title: "Research"
+    url: /research/  
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Service"
-    url: /service/
+  - title: "Theses"
+    url: /theses/
         
   - title: "Blog Posts"
     url: /posts/
