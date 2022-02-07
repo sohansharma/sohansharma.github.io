@@ -1,7 +1,8 @@
 ---
 title: "Theses"
 collection: theses
-permalink: /talks/
+redirect_from: 
+  - /research/
 ---
 
 Open Theses
