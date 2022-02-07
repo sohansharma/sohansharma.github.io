@@ -205,7 +205,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -222,8 +222,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -231,8 +231,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _theses
   - scope:
       path: ""
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: false
   # _research
   - scope:
@@ -249,7 +249,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
   # _team
   - scope:
       path: ""
