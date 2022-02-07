@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Service:
+  theses:
     output: true
     permalink: /:collection/:path/
   research:
@@ -233,15 +233,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _service
+  # _theses
   - scope:
       path: ""
-      type: service
+      type: theses
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _research
   - scope:
       path: ""
