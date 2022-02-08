@@ -4,9 +4,6 @@ collection: team
 permalink: /team/
 author_profile: false
 ---
-
-{% include image.html
-            img="../images/Sohan_Lal_TUHH.jpg"
-            title="Prof. Dr.-Ing. Sohan Lal"
-            caption="ABC"
-            url="https://sohansharma.github.io/group/sohan/" %}
+| ![space-1.jpg](<img src="../images/Sohan_Lal_TUHH.jpg" style="width:20%" title="Prof. Dr.-Ing. Sohan Lal" />) | 
+|:--:| 
+| *<a href="https://sohansharma.github.io/group/sohan/"> Prof. Dr.-Ing. Sohan Lal </a>* |
