@@ -253,6 +253,14 @@ figcaption {
   }
 }
 
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
+}
 
 /* Fix IE9 SVG bug */
 
