@@ -20,7 +20,7 @@ Dr. Lal's Ph.D. research improved GPU‘s energy efficiency by about 20%. Althou
 </p>
 
 <p align="justify">
-If you are interested in doing research with our group, you may send an [e-mail](mailto:sohan.lal@tuhh.de). If you are already at Hamburg University of Technology, you can also schedule an in-person meeting.
+If you are interested in doing research with our group, you may send an <a href="mailto:sohan.lal@tuhh.de">e-mail</a>. If you are already at Hamburg University of Technology, you can also schedule an in-person meeting.
 </p>
 
 Broad Areas of Research
