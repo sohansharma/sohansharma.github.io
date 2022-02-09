@@ -27,3 +27,8 @@ Broad Areas of Research
 * Approximate computing
 * Applied machine learning
 * GPU security. 
+
+Past Projects
+----
+* <a href="http://lpgpu.org/wp/" style="text-decoration:none">Low Power Parallel Computing on GPUs</a> (LPGPU)
+* <a href="https://celerity.github.io/" style="text-decoration:none">Advanced Modeling and Runtime Support for Large-Scale HPC Clusters</a> (Celerity)
