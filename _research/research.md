@@ -19,6 +19,10 @@ Here is a small example of the potenial impact of what we are doing. In 2017, ap
 Dr. Lal's Ph.D. research improved GPU‘s energy efficiency by about 20%. Although, the research so far has been restricted to the research community and not implemented in a real GPU. This is one of the areas that we are looking to take forward. 
 </p>
 
+<p align="justify">
+If you are interested in doing research with our group, you may send an [e-mail](mailto:sohan.lal@tuhh.de). If you are already at Hamburg University of Technology, you can also schedule an in-person meeting.
+</p>
+
 Broad Areas of Research
 ---
 * GPU architecture 
