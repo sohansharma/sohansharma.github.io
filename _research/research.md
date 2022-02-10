@@ -2,10 +2,8 @@
 title: Research
 collection: research
 excerpt: '2021'
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-
 ---
 
 Overview
