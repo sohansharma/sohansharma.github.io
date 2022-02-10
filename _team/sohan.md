@@ -1,7 +1,6 @@
 ---
 title: Short Bio
 permalink: /team/sohan/
-author_profile: true
 ---
 
 <p align="justify">
