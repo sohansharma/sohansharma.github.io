@@ -1,6 +1,7 @@
 ---
 title: "Theses"
 collection: theses
+permalink: /theses/
 ---
 
 Open Theses
