@@ -1,10 +1,8 @@
 ---
-title: About
+title:    
 permalink: /
-author_profile: true
-
+author_profile: false
 ---
-
 Welcome at the Institute of Massively Parallel Systems!
 ----
 <p align="justify">
