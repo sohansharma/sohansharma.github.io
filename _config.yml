@@ -233,7 +233,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comments: false
   # _theses
@@ -242,7 +242,7 @@ defaults:
       type: theses
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
       comment: false
   # _research
@@ -251,7 +251,7 @@ defaults:
       type: research
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
   # _team
   - scope:
@@ -259,7 +259,7 @@ defaults:
       type: team
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _conact
   - scope:
@@ -267,7 +267,7 @@ defaults:
       type: contact
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
 # Sass/SCSS
 sass:
