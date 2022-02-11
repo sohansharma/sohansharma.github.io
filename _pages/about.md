@@ -11,6 +11,8 @@ These days massively parallel systems are present everywhere – in our smartpho
 <span style="font-size:30px;">News</span>
 ------
 
+## News
+
 2022-01-22: MPS Paper Accepted at IPDPS 2022
 --
 <p align="justify">
