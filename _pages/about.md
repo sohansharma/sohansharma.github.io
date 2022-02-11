@@ -8,7 +8,7 @@ The institute of massively parallel systems (MPS) investiagates and teaches in t
 These days massively parallel systems are present everywhere – in our smartphones, cars, supercomputers. They help us to do many things which were not possible before. For example, the recent stupendous success of machine learning, especially deep learning, is mainly due to the exponential increase in computational power. As such, machine learning is not new. Machine learning methods are around since the 1950s. What has predominately changed now is the computing power, with many-core processors such as GPUs as the main drivers. If these massively parallel processors are not utilized properly, they are very expensive in terms of power and energy consumption, which is not good as we aspire to reduce our carbon footprint. At MPS, we are working to make computing devices more performance and energy-efficient from the architecture perspective, and improve their programmability from a programmer’s perspective.
 </p>
 
-<span style="color:black;font-size:10px;">News</span>
+<span style="color:black;font-size:$type-size;">News</span>
 ------
 
 2022-01-22: MPS Paper Accepted at IPDPS 2022
