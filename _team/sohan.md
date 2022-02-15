@@ -18,7 +18,7 @@ Education
 * &#127891; M.S (Research) in Information Technology, 2011, <span style="color:grey">Indian Institute of Technology Delhi</span>
 * &#127891; B.Tech in Computer Science & Engineering, 2003, <span style="color:grey">Govt. College of Engineering & Technology Jammu</span>
 
-Talks
+Invited Talks
 ----
 
 On Performance and Energy Efficiency of GPUs
