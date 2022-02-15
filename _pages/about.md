@@ -9,7 +9,6 @@ These days massively parallel systems are present everywhere – in our smartpho
 </p>
 
 <span style="font-size:28px;">News</span>
-------
 
 2022-01-22: MPS Paper Accepted at IPDPS 2022
 --
