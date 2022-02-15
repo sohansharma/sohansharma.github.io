@@ -14,7 +14,7 @@ These days massively parallel systems are present everywhere – in our smartpho
 2022-01-22: MPS Paper Accepted at IPDPS 2022
 --
 <p align="justify">
-The paper "Memory Access Granularity Aware Lossless Compression for GPUs" by Sohan Lal, Manuel Renz, Julian Hartmer, and Ben Juurlink has been accepted for publication at IPDPS 2022. Congratulations to the team!
+The paper "Memory Access Granularity Aware Lossless Compression for GPUs" by Sohan Lal, Manuel Renz, Julian Hartmer, and Ben Juurlink has been accepted for publication at <a href="https://www.ipdps.org/" style="text-decoration:none">IPDPS</a> 2022. Congratulations to the team!
 </p>
 
 2022-09-01: Sohan Lal Joins TUHH
