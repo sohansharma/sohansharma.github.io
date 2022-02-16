@@ -221,7 +221,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: learning
+      type: teaching
     values:
       layout: single
       author_profile: true
