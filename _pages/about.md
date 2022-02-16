@@ -17,7 +17,7 @@ These days massively parallel systems are present everywhere – in our smartpho
 The paper "Memory Access Granularity Aware Lossless Compression for GPUs" by Sohan Lal, Manuel Renz, Julian Hartmer, and Ben Juurlink has been accepted for publication at <a href="https://www.ipdps.org/" style="text-decoration:none">IPDPS</a> 2022. Congratulations to the team!
 </p>
 
-2022-09-01: Sohan Lal Joins TUHH
+2021-09-01: Sohan Lal Joins TUHH
 --
 <p align="justify">
 Dr. Sohan Lal joins TU Hamburg as a Junior Professor to lead the institute of massively parallel systems.
