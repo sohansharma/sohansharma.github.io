@@ -15,12 +15,12 @@ Open Theses
 Ongoing Theses
 ===
 * Deep Learning-Based Highly-Accurate Spatial Locality Predictor for GPUs (J. Hartmer, TUB)
-* Quantitative Cache Line Re-Use Analysis for GPUs (Jonas Dommes, TUB)
+* Quantitative Cache Line Re-Use Analysis for GPUs (J. Dommes, TUB)
 
 Completed Theses
 ===
-* Memory Access Granularity Aware Lossless Compression for GPUs (Manuel Renz)
-* An Efficient Lightweight Framework for Porting Vision Algos on Embedded SoC (Apurv Ashish)
-* SystemC Modeling of a Memory Paging System for Secure Elements in SoC (Menglong Yuan)
-* Design and Implementation of an Efficient Spatial Locality Predictor for GPUs (Nitesh Agarwal)
-* Performance Counters Based Power Modeling of Mobile GPUs using Deep Learning (Markus Neu)
+* Memory Access Granularity Aware Lossless Compression for GPUs (M. Renz)
+* An Efficient Lightweight Framework for Porting Vision Algos on Embedded SoC (A. Ashish)
+* SystemC Modeling of a Memory Paging System for Secure Elements in SoC (M. Yuan)
+* Design and Implementation of an Efficient Spatial Locality Predictor for GPUs (N. Agarwal)
+* Power Modeling of Mobile GPUs using Deep Learning (M. Neu)
