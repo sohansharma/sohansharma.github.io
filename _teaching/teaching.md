@@ -1,6 +1,5 @@
 ---
 title: "Teaching@TUHH"
-collection: teaching
 permalink: /teaching/
 ---
 * Winter Semester 22/23: Massively Parallel Systems: Architecture and Programming (MS)
