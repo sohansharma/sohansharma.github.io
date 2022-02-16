@@ -21,7 +21,7 @@ Dr. Lal's Ph.D. research improved GPU‘s energy efficiency by about 20%. Althou
 <span style="font-size:28px;">Broad Areas of Research</span>
 ------
 
-* Enery-Efficient GPU architecture 
+* Energy-Efficient GPU architecture 
 * Applying machine learning for microarchitectural improvements
 * Power and performance modeling
 * Runtime support for HPC clusters
