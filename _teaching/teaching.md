@@ -1,9 +1,6 @@
 ---
 title: "Teaching@TUHH"
 collection: teaching
-type: "BS/MS"
-venue: "Technische Universität Hamburg, The School of EIM"
-date: 2021-10-01
 permalink: /teaching/
 ---
 * Winter Semester 22/23: Massively Parallel Systems: Architecture and Programming (MS)
