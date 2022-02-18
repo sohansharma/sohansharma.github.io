@@ -84,10 +84,10 @@ author:
   avatar           : "Sohan_Lal_github.JPG"
   bio              : "Junior Professor, Institute of Massively Parallel Systems, TU Hamburg"
   #location         : "<a href=https://www.tuhh.de/>TU Hamburg</a>"
-  employer         : "<a href=https://www.tuhh.de/>TU Hamburg</a>"
+  employer         : "<a href=https://www.tuhh.de/>TUHH</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=0C7ensoAAAAJ&hl=en"
-  email            :
+  email            : "sohan.lal@tuhh.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
