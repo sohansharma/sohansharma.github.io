@@ -83,7 +83,7 @@ author:
   name             : "Prof. Dr.-Ing. Sohan Lal"
   avatar           : "Sohan_Lal_github.JPG"
   bio              : "Junior Professor, Institute of Massively Parallel Systems, TU Hamburg"
-  location         : "<a href=https://www.tuhh.de/>TU Hamburg</a>"
+  #location         : "<a href=https://www.tuhh.de/>TU Hamburg</a>"
   employer         : "<a href=https://www.tuhh.de/>TU Hamburg</a>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.de/citations?user=0C7ensoAAAAJ&hl=en"
